@@ -50,17 +50,4 @@ powershell -ExecutionPolicy Bypass -File .\start_app.ps1
 ## Tests & Local Data
 - Use `sample_transactions.csv` and `bank_statement_sample.csv` to exercise upload endpoints.
 
-## Committing & Pushing
-I will commit the README update and attempt to push to `https://github.com/Uzair-hp/ai_budget_api.git`. Pushing may prompt for authentication unless your Git credentials are already configured.
 
-## Author
-Uzair-hp — https://github.com/Uzair-hp
-
----
-
-If you want, I can also:
-- run the backend to verify endpoints
-- run the frontend and open the app
-- create a GitHub Actions workflow to run tests
-
-Tell me which of these you'd like next.
